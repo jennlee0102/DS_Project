@@ -1,6 +1,4 @@
-# Project
-
-### Video Game Analysis for a New Game Development
+## Video Game Analysis for a New Game Development
 
 This is my first project.
 - Data from https://www.kaggle.com/datasets/gregorut/videogamesales
