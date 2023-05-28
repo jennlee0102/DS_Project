@@ -35,7 +35,7 @@ Other_Sales - Sales in the rest of the world (in millions) <br>
 
 #### 4. Data Visualization
 ```matplotlib, seaborn```<br>
-See [ipynb file](https://github.com/jennlee0102/DS_Project1/blob/main/Video_Game_Analysis.ipynb)
+Click [here](https://github.com/jennlee0102/DS_Project1/blob/main/Video_Game_Analysis.ipynb) to see my code
 
 #### 5. Conclusion
 Action games generate more revenue than Shooter games, but the Action genre is already considered a saturated market (red ocean) and the average sale of **Shooter** is the highest among all genres. Furthermore, although the Sports genre had high sales in the past, recent sales have been lackluster. The sales trend in North America is similar to that in Europe, so launching a Shooter game in **North America** could result in additional profits from European sales. Developing the game for **both PS4 and PC platforms** is expected to yield high profits.
