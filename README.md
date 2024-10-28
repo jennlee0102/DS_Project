@@ -21,7 +21,7 @@ Other_Sales - Sales in the rest of the world (in millions) <br>
 
 #### 3. Data Preparation
 ```pandas, numpy```
-- Preporcessing
+- Preprocessing
   - Match units to Million in sales
   - Preprocess nulls
   - Remove the data before 2000
